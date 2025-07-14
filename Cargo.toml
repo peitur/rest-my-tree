@@ -1,0 +1,8 @@
+[package]
+name = "rest-my-tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+re = "0.1.9"
+sha = "1.0.3"
